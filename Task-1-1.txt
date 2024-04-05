@@ -1,0 +1,12 @@
+Name: You Kim Chhay
+ID: 615725
+
+
+Task 1.1: Software Requirements
+
+- The system should maintain data about contact.
+- The system should allow users to search through the contacts.
+- The system should allow users to add new contacts.
+- The system should allow users to update existing contacts.
+- The system should allow users to delete old contacts.
+- The system should allow users to merge duplicate contacts.
